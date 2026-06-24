@@ -23,6 +23,10 @@ Whether you’re working solo or collaborating across a team, Spaces help you ma
 
 ## Welcome
 
+## Additional project documentation
+
+- [TravelGo software requirements specification](docs/travelgo-software-requirements-specification.md)
+
 - **Who is this for**: Project managers, team leads, and developers looking to streamline knowledge sharing
 - **What you'll learn**: How to leverage GitHub Copilot Spaces to capture, organize, and improve project management processes
 - **What you'll build**: A comprehensive knowledge management system using Copilot Spaces for team collaboration
